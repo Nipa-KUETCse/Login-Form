@@ -20,7 +20,7 @@ setting background colors and fonts, and laying out our content in multiple colu
 
 # Resources
 
-* JavaScript( [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) )
+* JavaScript ( [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) )
 * JavaScript ( [w3schools](https://www.w3schools.com/js/default.asp) )
 
 # Files
