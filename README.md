@@ -23,6 +23,3 @@ setting background colors and fonts, and laying out our content in multiple colu
 * JavaScript ( [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) )
 * JavaScript ( [w3schools](https://www.w3schools.com/js/default.asp) )
 
-# Files
-
-loginform.html -> Login and Registration Form using JS
